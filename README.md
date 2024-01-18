@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
-- 📫 How to reach me **matias.alvarez10x@mail.com**
+- 📫 How to reach me **matias.alvarez10x@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
